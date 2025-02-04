@@ -1,0 +1,23 @@
+{
+  "name": "go-template-formatter",
+  "version": "1.0.0",
+  "description": "Go template formatter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebastianlarrea/go-template-formatter.git"
+  },
+  "author": "Sebastian Larrea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sebastianlarrea/go-template-formatter/issues"
+  },
+  "homepage": "https://github.com/sebastianlarrea/go-template-formatter#readme",
+  "devDependencies": {
+    "prettier": "^3.4.2",
+    "prettier-plugin-go-template": "^0.0.15"
+  }
+}
