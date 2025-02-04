@@ -1,3 +1,2 @@
 /templates/*
-
-!/carpeta/example.gotmpl.json
+!/templates/example.gotmpl.json

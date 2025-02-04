@@ -1,0 +1,1 @@
+{{ define "example" }} { "example": "myexample", "element": "myelement", {{ if index . "other" }} { "other": "myother" } {{ end }} } {{ end }} {{ template "example" . }}
